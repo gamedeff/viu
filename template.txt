@@ -1,0 +1,3 @@
+﻿General;[b]Имя файла[/b]: %FileName%.%FileExtension%\r\n[b]Размер файла[/b]: %FileSize/String%\r\n[b]Длительность[/b]: %Duration/String%\r\n[b]Общий битрейт[/b]: %BitRate/String%\r\n
+Video;[b]Видео[/b]: %Format%, %CodecID/Hint%, %Width%x%Height% (%AspectRatio/String%), %FrameRate% fps, %BitRate/String% (%Bits-(Pixel*Frame)% bit/pixel)\r\n
+Audio;[b]Аудио[/b]: %Format%%Format_Profile%, %SamplingRate/String%, %Channel(s)% ch, %BitRate/String%, %BitRate_Mode%

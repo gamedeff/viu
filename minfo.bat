@@ -1,0 +1,1 @@
+MediaInfo.exe --Inform=file://D:\viu\template.txt "%1" > "%2"

@@ -1,0 +1,1 @@
+MediaInfo.exe "--Inform=General;Имя файла: %%FileName%%\r\nРазмер файла: %%FileSize/String%%\r\nДлительность: %%Duration/String%%\r\nОбщий битрейт: %%BitRate/String%%" "%1" > "%2"
